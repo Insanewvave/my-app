@@ -1,3 +1,2 @@
 Hello Artifactory and Sonar
 hello world
-Nidhish
